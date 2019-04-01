@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EmployeeLayer
+  - Pathfinding
+  - Tilemap
+  - GameManager
+  - Managers
+  - EmployeeGUI
+  - EmpFactory
+  - EmployeeShadows
+  - MissionManager
+  - EmployeeManager
+  - EmployeeReactions
+  - Money
+  - Notification
   layers:
   - Default
   - TransparentFX
@@ -13,8 +26,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - PostProcessing
+  - Logo
   - 
   - 
   - 
@@ -38,6 +51,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2324760073
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 744040035
+    locked: 0
+  - name: Lit UI
+    uniqueID: 1002669989
     locked: 0

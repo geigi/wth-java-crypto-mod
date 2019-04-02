@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 336410643, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: 8ad580cf-a5c7-496d-8c8d-a2723bbe061b
+  m_EditorClassIdentifier: 
+  Title: Think about new missions
+  Description: 
+  MissionSucceeded: Success!
+  MissionFailed: Failed :(
+  SkillsRequired:
+  - {fileID: 11400000, guid: b247db35868804a8382a0ab9874ea55a, type: 2}
+  - {fileID: 11400000, guid: ef272b6ae20e84b5fa65c4b03271719a, type: 2}
+  Difficulty: 0
+  Hardness: 1
+  MissionHooks: {fileID: 11400000, guid: f4331f228c5a646c18d25ecc39b3f7be, type: 2}
+  RequiredLevel: 0
+  RequiredEmployees: 0
+  AppearAfterDays: 0
+  RequiredMissions: {fileID: 11400000, guid: 6ffd97bce62be4f0f9f3f193262adfb8, type: 2}
+  ForceAppear: 0
+  Reappear: 0

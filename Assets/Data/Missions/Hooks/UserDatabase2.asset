@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2040282946, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: UserDatabase2
+  m_EditorClassIdentifier: 
+  GUIPrefab: {fileID: 1849358919602906681, guid: f1560fffaff0d4c2ab5208597f64d5bb,
+    type: 3}
+  FailText: A security audit showed that in case of a databreach user passwords can
+    be compromised.
+  Appear: 0.606

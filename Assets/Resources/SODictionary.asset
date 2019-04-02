@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1811293764, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: SODictionary
+  m_EditorClassIdentifier: 
+  Dictionary:
+  - Key: Assets/Data/Missions/3d7c616c-854c-4bd1-ade8-d891bc3f9000.asset
+    ScriptableObject: {fileID: 11400000, guid: 6fc87c9c63441452dbf26d75b47613df, type: 2}
+  - Key: Assets/Data/Skills/f4013895-0dbe-49be-95bf-4e234231e9a4.asset
+    ScriptableObject: {fileID: 11400000, guid: ef26d432fd3714d6f9e56644cea8b0e8, type: 2}
+  - Key: Assets/Data/Skills/ce12a75e-d26a-435e-aa6e-28cf943264df.asset
+    ScriptableObject: {fileID: 11400000, guid: b247db35868804a8382a0ab9874ea55a, type: 2}
+  - Key: Assets/Data/Skills/63ad54bf-4ba4-4fbb-ae0f-7811b9cb8565.asset
+    ScriptableObject: {fileID: 11400000, guid: ef272b6ae20e84b5fa65c4b03271719a, type: 2}
+  - Key: Assets/Data/Missions/8ad580cf-a5c7-496d-8c8d-a2723bbe061b.asset
+    ScriptableObject: {fileID: 11400000, guid: cf14c9bc87d33455aa075aacfe2c3f46, type: 2}
+  - Key: Assets/Data/Skills/c6c3f347-1a0b-45d6-b8df-4bfa16ed36ae.asset
+    ScriptableObject: {fileID: 11400000, guid: c2e5d02b79d5a444d8b4f0074801d983, type: 2}
+  - Key: Assets/Data/Missions/Hooks/UserDatabase1.asset
+    ScriptableObject: {fileID: 11400000, guid: a588fc7a045f3460093899cdc1ad7610, type: 2}
+  - Key: Assets/Data/Missions/Hooks/UserDatabase2.asset
+    ScriptableObject: {fileID: 11400000, guid: a6d76053848d44cf7bf0015886165c80, type: 2}

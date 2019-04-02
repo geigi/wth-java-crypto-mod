@@ -38,3 +38,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Assets/Plugins
+Backup/Plugins/Editor/JetBrains
+Backup

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1690787286, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: f4013895-0dbe-49be-95bf-4e234231e9a4
+  m_EditorClassIdentifier: 
+  skillName: Cryptography
+  skillSprite: {fileID: 21300000, guid: 0134e834f33f543c18d42fc5d717968c, type: 3}
+  LevelUpCost: 1
+  LevelUpCostFactor: 0

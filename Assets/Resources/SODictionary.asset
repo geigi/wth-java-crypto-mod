@@ -35,3 +35,5 @@ MonoBehaviour:
     ScriptableObject: {fileID: 11400000, guid: 73b4b2d56cf024e64a02f8aa0a846968, type: 2}
   - Key: Assets/Data/Missions/Hooks/RandomNumber.asset
     ScriptableObject: {fileID: 11400000, guid: 9e44a4430683140e19f283a2f08f656f, type: 2}
+  - Key: Assets/Data/Missions/253eba60-e6e0-4762-966e-ceb345427b33.asset
+    ScriptableObject: {fileID: 11400000, guid: 6a2c80b093b6543e29b9a118ec0c32d0, type: 2}

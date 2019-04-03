@@ -16,7 +16,7 @@ MonoBehaviour:
   _author: geigi
   _description: The Java cryptography APIs might seem complicated at first, but if
     you get the hang of it, they are a very useful tool!
-  _version: 0.1
+  _version: 1.0
   _platforms: 15
   _content: 6
   _outputDirectory: /Users/ju/Studium/wth-java-crypto-mod/Build

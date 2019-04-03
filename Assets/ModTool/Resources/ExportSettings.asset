@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: -1672532349, guid: aeeae1c23febe46bca3a170cd3b810c3, type: 3}
   m_Name: ExportSettings
   m_EditorClassIdentifier: 
-  _name: Java Crypto
+  _name: Java Cryptography Extension
   _author: geigi
-  _description: The Java cryptography APIs might seem complicated at first, but if
-    you get the hang of it, they are a very useful tool!
+  _description: The Java cryptography Java Cryptography Extension might seem complicated
+    at first, but if you get the hang of it, they are a very useful tool!
   _version: 1.0
   _platforms: 15
   _content: 6

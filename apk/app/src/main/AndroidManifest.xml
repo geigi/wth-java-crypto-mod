@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.geigi.wth_jce_mod">
+
+    <application android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <provider
+            android:name="com.github.geigi.wth_jce_mod.WTHModProvider"
+            android:authorities="com.github.geigi.wth_jce_mod"
+            android:grantUriPermissions="true"
+            android:exported="true" />
+    </application>
+</manifest>

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 128964691
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: java cryptography extension.assets
+      Dependencies: {}

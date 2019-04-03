@@ -1,0 +1,134 @@
+ManifestFileVersion: 0
+CRC: 1273758140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 313eec827a8357c9d5dc652a89a3df73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51e5c35c0020218e3baa072c502966a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 853051423, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -527267549, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: 336410643, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: -2040282946, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: 1732690367, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: -252845168, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: -742701943, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: -783509565, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: -1811293764, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: 1690787286, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: -851254208, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: 2013702512, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+- Class: 114
+  Script: {fileID: 256872108, guid: fc44f784326164e309f14399307c8c93, type: 3}
+- Class: 114
+  Script: {fileID: 604031666, guid: fc44f784326164e309f14399307c8c93, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/UI/Elements/Toggle.prefab
+- Assets/Data/Missions/Requirements/d2ecf98a-d87d-4e90-9daa-e45b0683eb70.asset
+- Assets/Data/Missions/253eba60-e6e0-4762-966e-ceb345427b33.asset
+- Assets/Data/Missions/60860b0c-a968-40c5-8258-63629079fa5f.asset
+- Assets/Data/Missions/3ade80ed-65c3-41a6-ab95-448089f94324.asset
+- Assets/Data/Missions/HookLists/c09ddd1a-4aa1-40aa-8664-eb25ebaef44a.asset
+- Assets/Prefabs/UI/Elements/ScrollView.prefab
+- Assets/Data/Missions/HookLists/651df152-702a-4e56-9b18-c4aa62309bda.asset
+- Assets/Data/Skills/f4013895-0dbe-49be-95bf-4e234231e9a4.asset
+- Assets/Prefabs/UI/Elements/Text.prefab
+- Assets/Data/Missions/HookLists/d8f1b875-3cb1-41ad-8f5b-fd39c4ba37aa.asset
+- Assets/Prefabs/UI/Elements/Win32_Border.prefab
+- Assets/Data/Missions/Hooks/RandomNumber.asset
+- Assets/Data/Missions/Hooks/UserDatabase2.asset
+- Assets/ModInfo.asset
+- Assets/Data/Skills/480fc03e-3ba1-4e2c-b2f6-1eab4d814d7a.asset
+- Assets/Data/Missions/HookLists/783066ef-e729-4f41-a7a7-22d4a93336e2.asset
+- Assets/Data/Skills/SkillSet.asset
+- Assets/Prefabs/UI/Elements/Dropdown.prefab
+- Assets/Prefabs/UI/RandomNumber.prefab
+- Assets/Data/Skills/ce12a75e-d26a-435e-aa6e-28cf943264df.asset
+- Assets/Data/Missions/Hooks/DropIt.asset
+- Assets/Resources/SODictionary.asset
+- Assets/Prefabs/UI/DropIt.prefab
+- Assets/Data/Missions/HookLists/47a789b6-a21b-482a-b66d-cd6326027cb3.asset
+- Assets/Prefabs/UI/Elements/Win32_Button.prefab
+- Assets/Data/Missions/HookLists/73dac177-904c-41bd-be84-8d310e47d8aa.asset
+- Assets/Data/Missions/Requirements/2cd1d477-02b0-4007-9874-c1af91ae9ae8.asset
+- Assets/Data/Missions/Requirements/53d477fb-5336-4456-b4e6-d9b3dc57929d.asset
+- Assets/Data/Missions/Requirements/ea8bb50a-add5-4c78-bece-bd569b470a2e.asset
+- Assets/Prefabs/UI/UserDatabaseHook1.prefab
+- Assets/Data/Missions/9c2f5c01-2688-4ba6-9957-221c844243cc.asset
+- Assets/Data/Skills/63ad54bf-4ba4-4fbb-ae0f-7811b9cb8565.asset
+- Assets/Data/Missions/Hooks/UserDatabase1.asset
+- Assets/Data/Skills/c6c3f347-1a0b-45d6-b8df-4bfa16ed36ae.asset
+- Assets/Data/Missions/3d7c616c-854c-4bd1-ade8-d891bc3f9000.asset
+- Assets/Data/Missions/Requirements/9118cf91-52bb-4112-9c05-9d35d21e1407.asset
+- Assets/Data/Missions/8ad580cf-a5c7-496d-8c8d-a2723bbe061b.asset
+- Assets/Data/Missions/MissionList.asset
+- Assets/Data/Missions/97bd7288-ec64-4889-9154-68f5e80f4807.asset
+- Assets/Data/Missions/Requirements/5b443d0a-3ea6-4dd2-97c4-2e93fdf94086.asset
+- Assets/Data/Missions/Requirements/e2f7b9ab-a6b0-402d-ac0f-347495ac4fd7.asset
+- Assets/Prefabs/UI/HookTemplate.prefab
+- Assets/Data/Missions/HookLists/2f89f81a-3c69-4fc0-a0c0-5a40ffcd8c08.asset
+- Assets/Prefabs/UI/UserDatabaseHook2.prefab
+Dependencies: []

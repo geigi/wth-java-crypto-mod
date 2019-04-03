@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 336410643, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: 60860b0c-a968-40c5-8258-63629079fa5f
+  m_EditorClassIdentifier: 
+  Title: It works on my machine
+  Description: A new %WEBSERVICE% from %INSTITUTION% is facing issues on some on their
+    servers. The concerning machines throw exceptions in a encryption routine. Help
+    them debug the problem!
+  MissionSucceeded: Turns out the servers were using different providers for the Java
+    Cryptography Extension. After setting up the environment equally the service runs
+    smoothly.
+  MissionFailed: Even after countless hours on stackoverflow you could not find a
+    solution.
+  SkillsRequired:
+  - {fileID: 11400000, guid: b247db35868804a8382a0ab9874ea55a, type: 2}
+  - {fileID: 11400000, guid: c91dff1439d5a41fd98d46ed8d5d50b1, type: 2}
+  Difficulty: 1
+  Hardness: 1
+  MissionHooks: {fileID: 11400000, guid: e67c8b77140da4ea199fc8bf46ea4db3, type: 2}
+  RequiredLevel: 0
+  RequiredEmployees: 0
+  AppearAfterDays: 0
+  RequiredMissions: {fileID: 11400000, guid: e717a33fcf30841aca9ec3fd567015ec, type: 2}
+  ForceAppear: 0
+  Reappear: 0

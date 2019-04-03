@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 336410643, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: 9c2f5c01-2688-4ba6-9957-221c844243cc
+  m_EditorClassIdentifier: 
+  Title: Hardening the network from %COMPANY%
+  Description: '%COMPANY% is using a LDAP system for user authentification with a
+    custom client written in Java. They need someone who verifies the security of
+    their client.'
+  MissionSucceeded: LDAP input was formerly handled unsanitized. Now the input is
+    completely sanitized and the system is more secure!
+  MissionFailed: LDAP input is handled unsanitized and is therefore vulnearable to
+    attacks.
+  SkillsRequired:
+  - {fileID: 11400000, guid: c91dff1439d5a41fd98d46ed8d5d50b1, type: 2}
+  - {fileID: 11400000, guid: ef272b6ae20e84b5fa65c4b03271719a, type: 2}
+  Difficulty: 1
+  Hardness: 1
+  MissionHooks: {fileID: 11400000, guid: 1e7367987d1eb40c59e97ba37ae1eb03, type: 2}
+  RequiredLevel: 0
+  RequiredEmployees: 0
+  AppearAfterDays: 0
+  RequiredMissions: {fileID: 11400000, guid: 46982d1934a1c4f34913248df0b40173, type: 2}
+  ForceAppear: 0
+  Reappear: 0

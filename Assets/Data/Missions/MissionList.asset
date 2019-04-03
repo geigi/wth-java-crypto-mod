@@ -17,6 +17,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: cf14c9bc87d33455aa075aacfe2c3f46, type: 2}
   - {fileID: 11400000, guid: f975c0ede8ee04de9847faff87ea4da9, type: 2}
   - {fileID: 11400000, guid: 6a2c80b093b6543e29b9a118ec0c32d0, type: 2}
+  - {fileID: 11400000, guid: e8d4d4c989c25405999c89889d7132c4, type: 2}
+  - {fileID: 11400000, guid: b14eb8b099ac245b0af22dac3406db49, type: 2}
+  - {fileID: 11400000, guid: 3bd0efd0e7fcc44cfb96d3c3dfe69bfc, type: 2}
   easyDifficultyDescription: 
   normalDifficultyDescription: 'In this difficulty you can test your knowledge on:
 

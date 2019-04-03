@@ -37,3 +37,11 @@ MonoBehaviour:
     ScriptableObject: {fileID: 11400000, guid: 9e44a4430683140e19f283a2f08f656f, type: 2}
   - Key: Assets/Data/Missions/253eba60-e6e0-4762-966e-ceb345427b33.asset
     ScriptableObject: {fileID: 11400000, guid: 6a2c80b093b6543e29b9a118ec0c32d0, type: 2}
+  - Key: Assets/Data/Skills/480fc03e-3ba1-4e2c-b2f6-1eab4d814d7a.asset
+    ScriptableObject: {fileID: 11400000, guid: c91dff1439d5a41fd98d46ed8d5d50b1, type: 2}
+  - Key: Assets/Data/Missions/9c2f5c01-2688-4ba6-9957-221c844243cc.asset
+    ScriptableObject: {fileID: 11400000, guid: e8d4d4c989c25405999c89889d7132c4, type: 2}
+  - Key: Assets/Data/Missions/60860b0c-a968-40c5-8258-63629079fa5f.asset
+    ScriptableObject: {fileID: 11400000, guid: b14eb8b099ac245b0af22dac3406db49, type: 2}
+  - Key: Assets/Data/Missions/3ade80ed-65c3-41a6-ab95-448089f94324.asset
+    ScriptableObject: {fileID: 11400000, guid: 3bd0efd0e7fcc44cfb96d3c3dfe69bfc, type: 2}

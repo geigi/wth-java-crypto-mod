@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 336410643, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: 3ade80ed-65c3-41a6-ab95-448089f94324
+  m_EditorClassIdentifier: 
+  Title: Is somebody eavesdropping?
+  Description: After %COMPANY% found out that some popular Android apps where vulnerable
+    to man-in-the-middle attacks, they want to be sure that their %SOFTWARE% is not
+    one of them.
+  MissionSucceeded: The %SOFTWARE% didn't use the Java SSL API correctly and was vulnerable.
+    But you found the issue and fixed it!
+  MissionFailed: Someone was faster than you and a man-in-the-middle attack for the
+    app was catched in the wild.
+  SkillsRequired:
+  - {fileID: 11400000, guid: b247db35868804a8382a0ab9874ea55a, type: 2}
+  - {fileID: 11400000, guid: ef272b6ae20e84b5fa65c4b03271719a, type: 2}
+  - {fileID: 11400000, guid: ef26d432fd3714d6f9e56644cea8b0e8, type: 2}
+  Difficulty: 1
+  Hardness: 1
+  MissionHooks: {fileID: 11400000, guid: 0a45b6cf8a7ba4b51888ad6337e6b2fe, type: 2}
+  RequiredLevel: 0
+  RequiredEmployees: 0
+  AppearAfterDays: 0
+  RequiredMissions: {fileID: 11400000, guid: 93a2ecc8149c84ace89842b9e5261326, type: 2}
+  ForceAppear: 0
+  Reappear: 0

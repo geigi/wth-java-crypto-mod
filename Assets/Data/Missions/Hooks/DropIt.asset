@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -2040282946, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
-  m_Name: UserDatabase2
+  m_Name: DropIt
   m_EditorClassIdentifier: 
-  GUIPrefab: {fileID: 1849358919602906681, guid: f1560fffaff0d4c2ab5208597f64d5bb,
+  GUIPrefab: {fileID: 1849358919602906681, guid: e97d17560c2484c238501e7e79f211b6,
     type: 3}
-  FailText: Woops, better use bcrypt, scrypt or PBKDF2 the next time!
-  Appear: 0.606
+  FailText: It seems like only cipher.update() can be called 0..* times.
+  Appear: 0.512

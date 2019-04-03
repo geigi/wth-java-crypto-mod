@@ -22,7 +22,7 @@ MonoBehaviour:
   SkillsRequired:
   - {fileID: 11400000, guid: ef26d432fd3714d6f9e56644cea8b0e8, type: 2}
   - {fileID: 11400000, guid: c2e5d02b79d5a444d8b4f0074801d983, type: 2}
-  Difficulty: 0
+  Difficulty: 1
   Hardness: 1
   MissionHooks: {fileID: 11400000, guid: c53600a2d82a3465cb310bf5f75b2517, type: 2}
   RequiredLevel: 0

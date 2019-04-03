@@ -9,10 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2040282946, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
-  m_Name: UserDatabase2
+  m_Script: {fileID: 1732690367, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: c09ddd1a-4aa1-40aa-8664-eb25ebaef44a
   m_EditorClassIdentifier: 
-  GUIPrefab: {fileID: 1849358919602906681, guid: f1560fffaff0d4c2ab5208597f64d5bb,
-    type: 3}
-  FailText: Woops, better use bcrypt, scrypt or PBKDF2 the next time!
-  Appear: 0.606
+  MissionHooks:
+  - {fileID: 11400000, guid: 73b4b2d56cf024e64a02f8aa0a846968, type: 2}

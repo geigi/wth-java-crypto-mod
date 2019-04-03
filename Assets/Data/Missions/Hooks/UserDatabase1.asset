@@ -14,6 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GUIPrefab: {fileID: 1849358919602906681, guid: a3ee26590b8a14ed1b4ecd8195395c0a,
     type: 3}
-  FailText: A security audit showed that in case of a databreach user passwords can
-    be compromised.
+  FailText: Maybe it's best to store passwords hashed?
   Appear: 0.296

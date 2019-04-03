@@ -12,14 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 336410643, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
   m_Name: 8ad580cf-a5c7-496d-8c8d-a2723bbe061b
   m_EditorClassIdentifier: 
-  Title: Think about new missions
-  Description: 
-  MissionSucceeded: Success!
-  MissionFailed: Failed :(
+  Title: We don't have enough chat clients
+  Description: Another day another instant messenger on the horizon! A group of students
+    from %UNIVERSITY% want to implement a new and end-to-end encrypted instant messenger
+    and they need help with the encryption.
+  MissionSucceeded: End-to-End encryption was approved by a security audit!
+  MissionFailed: Some vulnerabilities in the end-to-end encryption where found by
+    a security audit. This will delay the project.
   SkillsRequired:
   - {fileID: 11400000, guid: b247db35868804a8382a0ab9874ea55a, type: 2}
-  - {fileID: 11400000, guid: ef272b6ae20e84b5fa65c4b03271719a, type: 2}
-  Difficulty: 0
+  - {fileID: 11400000, guid: ef26d432fd3714d6f9e56644cea8b0e8, type: 2}
+  Difficulty: 1
   Hardness: 1
   MissionHooks: {fileID: 11400000, guid: f4331f228c5a646c18d25ecc39b3f7be, type: 2}
   RequiredLevel: 0

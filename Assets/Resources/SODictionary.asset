@@ -29,3 +29,9 @@ MonoBehaviour:
     ScriptableObject: {fileID: 11400000, guid: a588fc7a045f3460093899cdc1ad7610, type: 2}
   - Key: Assets/Data/Missions/Hooks/UserDatabase2.asset
     ScriptableObject: {fileID: 11400000, guid: a6d76053848d44cf7bf0015886165c80, type: 2}
+  - Key: Assets/Data/Missions/97bd7288-ec64-4889-9154-68f5e80f4807.asset
+    ScriptableObject: {fileID: 11400000, guid: f975c0ede8ee04de9847faff87ea4da9, type: 2}
+  - Key: Assets/Data/Missions/Hooks/DropIt.asset
+    ScriptableObject: {fileID: 11400000, guid: 73b4b2d56cf024e64a02f8aa0a846968, type: 2}
+  - Key: Assets/Data/Missions/Hooks/RandomNumber.asset
+    ScriptableObject: {fileID: 11400000, guid: 9e44a4430683140e19f283a2f08f656f, type: 2}

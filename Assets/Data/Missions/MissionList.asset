@@ -15,11 +15,16 @@ MonoBehaviour:
   missionList:
   - {fileID: 11400000, guid: 6fc87c9c63441452dbf26d75b47613df, type: 2}
   - {fileID: 11400000, guid: cf14c9bc87d33455aa075aacfe2c3f46, type: 2}
-  easyDifficultyDescription: In this difficulty you can expect easy and straightforward
-    missions.
-  normalDifficultyDescription: In this difficulty you can expect everything from the
-    previous difficulty, as well as special missions on the topic of SQL-Injection.
-  hardDifficultyDescription: In this difficulty you can expect everything from the
-    previous difficulties, as well as special missions on the topic of CrossSiteScripting.
-  guruDifficultyDescription: In this difficulty you can expect everything from the
-    previous difficulties, as well as special missions on the topic of Secure Passwords.
+  - {fileID: 11400000, guid: f975c0ede8ee04de9847faff87ea4da9, type: 2}
+  easyDifficultyDescription: 
+  normalDifficultyDescription: 'In this difficulty you can test your knowledge on:
+
+    - How to use the "Cypher" class
+
+    - How to store passwords correctly
+
+    - How to generate secure random numbers
+
+    ... and much mure!'
+  hardDifficultyDescription: 
+  guruDifficultyDescription: 

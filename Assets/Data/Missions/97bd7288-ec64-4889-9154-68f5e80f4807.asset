@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 336410643, guid: 22920b482191a4783a51bc61e7d45580, type: 3}
+  m_Name: 97bd7288-ec64-4889-9154-68f5e80f4807
+  m_EditorClassIdentifier: 
+  Title: Drop it like it's hot
+  Description: '%CONTACT_L% from the %UNIVERSITY% wants to create a secure platform
+    to easily share files across the university. The files will be stored encrypted
+    on a server. They need someone who implements the encryption for them.'
+  MissionSucceeded: 'Filesharing couldn''t be easier while being secure and encrypted! '
+  MissionFailed: Security requirements couldn't be met. They are using Nextcloud now.
+  SkillsRequired:
+  - {fileID: 11400000, guid: ef26d432fd3714d6f9e56644cea8b0e8, type: 2}
+  - {fileID: 11400000, guid: b247db35868804a8382a0ab9874ea55a, type: 2}
+  Difficulty: 1
+  Hardness: 1
+  MissionHooks: {fileID: 11400000, guid: 23c0ffc11243a452cbc8b9f97c69a9e0, type: 2}
+  RequiredLevel: 0
+  RequiredEmployees: 0
+  AppearAfterDays: 0
+  RequiredMissions: {fileID: 11400000, guid: c526a949cc96b4dfb9557e85eedfb77f, type: 2}
+  ForceAppear: 0
+  Reappear: 0
